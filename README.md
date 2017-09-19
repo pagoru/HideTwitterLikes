@@ -6,7 +6,7 @@
 1. [Install](https://github.com/pagoru/HideTwitterLikes/releases/download/1.0.0/hidetwitterlikes-1.0.0-an.fx.xpi)
 3. Don't see again the shitty twitter suggestions.
 
-# Chrome [WIP]
+# Chrome
 1. [Download](https://github.com/pagoru/HideTwitterLikes/releases/download/1.0.0/HiddeTwitterLikes_1.0.0.crx)
 2. Open `chrome://extensions/`
 3. Drag the file
