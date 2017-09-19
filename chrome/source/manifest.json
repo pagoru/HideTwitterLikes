@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "HideTwitterLikes",
+  "description": "Removes the suggestions from twitter.",
+  "version": "1.0.0",
+
+  "browser_action": {
+    "default_icon": "icons/icon_x48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/*"],
+      "js": ["DeleteThisShit.js"]
+    }
+  ]
+}
