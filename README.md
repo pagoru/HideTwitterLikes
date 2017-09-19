@@ -11,4 +11,5 @@
 2. Open `chrome://extensions/`
 3. Drag the file
 4. Don't see again the shitty twitter suggestions `but this time in chrome`.
+
 ![how_to_chrome](https://raw.githubusercontent.com/pagoru/HideTwitterLikes/master/htl.gif)
