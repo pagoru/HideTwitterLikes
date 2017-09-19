@@ -1,0 +1,17 @@
+{
+
+  "description": "Removes the suggestions from twitter.",
+  "manifest_version": 2,
+  "name": "HideTwitterLikes",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/pagoru/HideTwitterLikes",
+  "icons": {
+    "48": "icons/icon_x48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/"],
+      "js": ["DeleteThisShit.js"]
+    }
+  ]
+}
